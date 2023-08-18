@@ -1,0 +1,690 @@
+Date,Year,Weeks,Mode of Transport,Statistic Label,Demand,Sex,Age Group,Demand %,date,Indicator,Rain,Temperature(c),Soil
+2021-01-02,2021.0,Week 05,Rail,Passenger Journeys,105426.0,,,,,,,,
+2021-01-02,2021.0,Week 05,"Bus, excluding Dublin Metro",Passenger Journeys,201849.0,,,,,,,,
+2021-01-02,2021.0,Week 05,"All public transport, excluding LUAS",Passenger Journeys,1098464.0,,,,,,,,
+2021-01-02,2021.0,Week 05,Dublin Metro Bus,Passenger Journeys,791189.0,,,,,,,,
+2021-01-03,2021.0,Week 09,Rail,Passenger Journeys,142782.0,,,,,,,,
+2021-01-03,2021.0,Week 09,"All public transport, excluding LUAS",Passenger Journeys,1330175.0,,,,,,,,
+2021-01-03,2021.0,Week 09,"Bus, excluding Dublin Metro",Passenger Journeys,240137.0,,,,,,,,
+2021-01-03,2021.0,Week 09,Dublin Metro Bus,Passenger Journeys,947256.0,,,,,,,,
+2021-01-11,2021.0,Week 44,Rail,Passenger Journeys,569327.0,,,,,,,,
+2021-01-11,2021.0,Week 44,"All public transport, excluding LUAS",Passenger Journeys,3397163.0,,,,,,,,
+2021-01-11,2021.0,Week 44,Dublin Metro Bus,Passenger Journeys,2239515.0,,,,,,,,
+2021-01-11,2021.0,Week 44,"Bus, excluding Dublin Metro",Passenger Journeys,588321.0,,,,,,,,
+2021-01-18,2021.0,Week 03,Dublin Metro Bus,Passenger Journeys,731273.0,,,,,,,,
+2021-01-18,2021.0,Week 03,"Bus, excluding Dublin Metro",Passenger Journeys,184441.0,,,,,,,,
+2021-01-18,2021.0,Week 03,Rail,Passenger Journeys,93456.0,,,,,,,,
+2021-01-18,2021.0,Week 03,"All public transport, excluding LUAS",Passenger Journeys,1009170.0,,,,,,,,
+2021-01-25,2021.0,Week 04,"All public transport, excluding LUAS",Passenger Journeys,1025401.0,,,,,,,,
+2021-01-25,2021.0,Week 04,"Bus, excluding Dublin Metro",Passenger Journeys,189266.0,,,,,,,,
+2021-01-25,2021.0,Week 04,Rail,Passenger Journeys,93322.0,,,,,,,,
+2021-01-25,2021.0,Week 04,Dublin Metro Bus,Passenger Journeys,742813.0,,,,,,,,
+2021-02-08,2021.0,Week 31,Dublin Metro Bus,Passenger Journeys,1509235.0,,,,,,,,
+2021-02-08,2021.0,Week 31,"All public transport, excluding LUAS",Passenger Journeys,2306444.0,,,,,,,,
+2021-02-08,2021.0,Week 31,Rail,Passenger Journeys,386299.0,,,,,,,,
+2021-02-08,2021.0,Week 31,"Bus, excluding Dublin Metro",Passenger Journeys,410910.0,,,,,,,,
+2021-02-15,2021.0,Week 07,Rail,Passenger Journeys,114588.0,,,,,,,,
+2021-02-15,2021.0,Week 07,"Bus, excluding Dublin Metro",Passenger Journeys,210651.0,,,,,,,,
+2021-02-15,2021.0,Week 07,Dublin Metro Bus,Passenger Journeys,849801.0,,,,,,,,
+2021-02-15,2021.0,Week 07,"All public transport, excluding LUAS",Passenger Journeys,1175040.0,,,,,,,,
+2021-02-22,2021.0,Week 08,Rail,Passenger Journeys,127685.0,,,,,,,,
+2021-02-22,2021.0,Week 08,Dublin Metro Bus,Passenger Journeys,884911.0,,,,,,,,
+2021-02-22,2021.0,Week 08,"Bus, excluding Dublin Metro",Passenger Journeys,218084.0,,,,,,,,
+2021-02-22,2021.0,Week 08,"All public transport, excluding LUAS",Passenger Journeys,1230680.0,,,,,,,,
+2021-03-05,2021.0,Week 18,"All public transport, excluding LUAS",Passenger Journeys,1599881.0,,,,,,,,
+2021-03-05,2021.0,Week 18,"Bus, excluding Dublin Metro",Passenger Journeys,287627.0,,,,,,,,
+2021-03-05,2021.0,Week 18,Rail,Passenger Journeys,216234.0,,,,,,,,
+2021-03-05,2021.0,Week 18,Dublin Metro Bus,Passenger Journeys,1096020.0,,,,,,,,
+2021-03-15,2021.0,Week 11,"All public transport, excluding LUAS",Passenger Journeys,1354709.0,,,,,,,,
+2021-03-15,2021.0,Week 11,"Bus, excluding Dublin Metro",Passenger Journeys,246289.0,,,,,,,,
+2021-03-15,2021.0,Week 11,Rail,Passenger Journeys,144852.0,,,,,,,,
+2021-03-15,2021.0,Week 11,Dublin Metro Bus,Passenger Journeys,963568.0,,,,,,,,
+2021-03-22,2021.0,Week 12,"Bus, excluding Dublin Metro",Passenger Journeys,260235.0,,,,,,,,
+2021-03-22,2021.0,Week 12,Dublin Metro Bus,Passenger Journeys,1015358.0,,,,,,,,
+2021-03-22,2021.0,Week 12,"All public transport, excluding LUAS",Passenger Journeys,1424746.0,,,,,,,,
+2021-03-22,2021.0,Week 12,Rail,Passenger Journeys,149153.0,,,,,,,,
+2021-03-29,2021.0,Week 13,"All public transport, excluding LUAS",Passenger Journeys,1440498.0,,,,,,,,
+2021-03-29,2021.0,Week 13,"Bus, excluding Dublin Metro",Passenger Journeys,259578.0,,,,,,,,
+2021-03-29,2021.0,Week 13,Rail,Passenger Journeys,172949.0,,,,,,,,
+2021-03-29,2021.0,Week 13,Dublin Metro Bus,Passenger Journeys,1007971.0,,,,,,,,
+2021-04-01,2021.0,Week 01,Dublin Metro Bus,Passenger Journeys,747912.0,,,,,,,,
+2021-04-01,2021.0,Week 01,Rail,Passenger Journeys,107227.0,,,,,,,,
+2021-04-01,2021.0,Week 01,"All public transport, excluding LUAS",Passenger Journeys,1039290.0,,,,,,,,
+2021-04-01,2021.0,Week 01,"Bus, excluding Dublin Metro",Passenger Journeys,184151.0,,,,,,,,
+2021-04-10,2021.0,Week 40,"Bus, excluding Dublin Metro",Passenger Journeys,601080.0,,,,,,,,
+2021-04-10,2021.0,Week 40,"All public transport, excluding LUAS",Passenger Journeys,3372318.0,,,,,,,,
+2021-04-10,2021.0,Week 40,Dublin Metro Bus,Passenger Journeys,2247599.0,,,,,,,,
+2021-04-10,2021.0,Week 40,Rail,Passenger Journeys,523639.0,,,,,,,,
+2021-04-19,2021.0,Week 16,"All public transport, excluding LUAS",Passenger Journeys,1818478.0,,,,,,,,
+2021-04-19,2021.0,Week 16,"Bus, excluding Dublin Metro",Passenger Journeys,326905.0,,,,,,,,
+2021-04-19,2021.0,Week 16,Dublin Metro Bus,Passenger Journeys,1227564.0,,,,,,,,
+2021-04-19,2021.0,Week 16,Rail,Passenger Journeys,264009.0,,,,,,,,
+2021-04-26,2021.0,Week 17,Dublin Metro Bus,Passenger Journeys,1218011.0,,,,,,,,
+2021-04-26,2021.0,Week 17,"All public transport, excluding LUAS",Passenger Journeys,1765624.0,,,,,,,,
+2021-04-26,2021.0,Week 17,"Bus, excluding Dublin Metro",Passenger Journeys,322352.0,,,,,,,,
+2021-04-26,2021.0,Week 17,Rail,Passenger Journeys,225261.0,,,,,,,,
+2021-05-04,2021.0,Week 14,Dublin Metro Bus,Passenger Journeys,911592.0,,,,,,,,
+2021-05-04,2021.0,Week 14,"All public transport, excluding LUAS",Passenger Journeys,1294761.0,,,,,,,,
+2021-05-04,2021.0,Week 14,"Bus, excluding Dublin Metro",Passenger Journeys,239121.0,,,,,,,,
+2021-05-04,2021.0,Week 14,Rail,Passenger Journeys,144048.0,,,,,,,,
+2021-05-07,2021.0,Week 27,"Bus, excluding Dublin Metro",Passenger Journeys,441652.0,,,,,,,,
+2021-05-07,2021.0,Week 27,Rail,Passenger Journeys,359807.0,,,,,,,,
+2021-05-07,2021.0,Week 27,Dublin Metro Bus,Passenger Journeys,1558866.0,,,,,,,,
+2021-05-07,2021.0,Week 27,"All public transport, excluding LUAS",Passenger Journeys,2360325.0,,,,,,,,
+2021-05-17,2021.0,Week 20,Dublin Metro Bus,Passenger Journeys,1471313.0,,,,,,,,
+2021-05-17,2021.0,Week 20,"All public transport, excluding LUAS",Passenger Journeys,2136594.0,,,,,,,,
+2021-05-17,2021.0,Week 20,Rail,Passenger Journeys,274137.0,,,,,,,,
+2021-05-17,2021.0,Week 20,"Bus, excluding Dublin Metro",Passenger Journeys,391144.0,,,,,,,,
+2021-05-24,2021.0,Week 21,Dublin Metro Bus,Passenger Journeys,1562407.0,,,,,,,,
+2021-05-24,2021.0,Week 21,Rail,Passenger Journeys,366784.0,,,,,,,,
+2021-05-24,2021.0,Week 21,"All public transport, excluding LUAS",Passenger Journeys,2347824.0,,,,,,,,
+2021-05-24,2021.0,Week 21,"Bus, excluding Dublin Metro",Passenger Journeys,418633.0,,,,,,,,
+2021-05-31,2021.0,Week 22,"All public transport, excluding LUAS",Passenger Journeys,2359340.0,,,,,,,,
+2021-05-31,2021.0,Week 22,"Bus, excluding Dublin Metro",Passenger Journeys,418168.0,,,,,,,,
+2021-05-31,2021.0,Week 22,Rail,Passenger Journeys,393257.0,,,,,,,,
+2021-05-31,2021.0,Week 22,Dublin Metro Bus,Passenger Journeys,1547915.0,,,,,,,,
+2021-06-09,2021.0,Week 36,Dublin Metro Bus,Passenger Journeys,1919743.0,,,,,,,,
+2021-06-09,2021.0,Week 36,"Bus, excluding Dublin Metro",Passenger Journeys,527134.0,,,,,,,,
+2021-06-09,2021.0,Week 36,Rail,Passenger Journeys,454290.0,,,,,,,,
+2021-06-09,2021.0,Week 36,"All public transport, excluding LUAS",Passenger Journeys,2901167.0,,,,,,,,
+2021-06-12,2021.0,Week 49,"Bus, excluding Dublin Metro",Passenger Journeys,478897.0,,,,,,,,
+2021-06-12,2021.0,Week 49,Rail,Passenger Journeys,417041.0,,,,,,,,
+2021-06-12,2021.0,Week 49,"All public transport, excluding LUAS",Passenger Journeys,2806513.0,,,,,,,,
+2021-06-12,2021.0,Week 49,Dublin Metro Bus,Passenger Journeys,1910575.0,,,,,,,,
+2021-06-14,2021.0,Week 24,"All public transport, excluding LUAS",Passenger Journeys,2441224.0,,,,,,,,
+2021-06-14,2021.0,Week 24,"Bus, excluding Dublin Metro",Passenger Journeys,446540.0,,,,,,,,
+2021-06-14,2021.0,Week 24,Dublin Metro Bus,Passenger Journeys,1623456.0,,,,,,,,
+2021-06-14,2021.0,Week 24,Rail,Passenger Journeys,371228.0,,,,,,,,
+2021-06-21,2021.0,Week 25,"All public transport, excluding LUAS",Passenger Journeys,2423476.0,,,,,,,,
+2021-06-21,2021.0,Week 25,Dublin Metro Bus,Passenger Journeys,1603926.0,,,,,,,,
+2021-06-21,2021.0,Week 25,"Bus, excluding Dublin Metro",Passenger Journeys,450941.0,,,,,,,,
+2021-06-21,2021.0,Week 25,Rail,Passenger Journeys,368609.0,,,,,,,,
+2021-06-28,2021.0,Week 26,"All public transport, excluding LUAS",Passenger Journeys,2432684.0,,,,,,,,
+2021-06-28,2021.0,Week 26,"Bus, excluding Dublin Metro",Passenger Journeys,447514.0,,,,,,,,
+2021-06-28,2021.0,Week 26,Dublin Metro Bus,Passenger Journeys,1586039.0,,,,,,,,
+2021-06-28,2021.0,Week 26,Rail,Passenger Journeys,399131.0,,,,,,,,
+2021-07-06,2021.0,Week 23,Rail,Passenger Journeys,377568.0,,,,,,,,
+2021-07-06,2021.0,Week 23,"Bus, excluding Dublin Metro",Passenger Journeys,411324.0,,,,,,,,
+2021-07-06,2021.0,Week 23,Dublin Metro Bus,Passenger Journeys,1527611.0,,,,,,,,
+2021-07-06,2021.0,Week 23,"All public transport, excluding LUAS",Passenger Journeys,2316503.0,,,,,,,,
+2021-07-19,2021.0,Week 29,Dublin Metro Bus,Passenger Journeys,1629341.0,,,,,,,,
+2021-07-19,2021.0,Week 29,"All public transport, excluding LUAS",Passenger Journeys,2561063.0,,,,,,,,
+2021-07-19,2021.0,Week 29,"Bus, excluding Dublin Metro",Passenger Journeys,465320.0,,,,,,,,
+2021-07-19,2021.0,Week 29,Rail,Passenger Journeys,466402.0,,,,,,,,
+2021-07-26,2021.0,Week 30,Dublin Metro Bus,Passenger Journeys,1595175.0,,,,,,,,
+2021-07-26,2021.0,Week 30,"Bus, excluding Dublin Metro",Passenger Journeys,449602.0,,,,,,,,
+2021-07-26,2021.0,Week 30,Rail,Passenger Journeys,387647.0,,,,,,,,
+2021-07-26,2021.0,Week 30,"All public transport, excluding LUAS",Passenger Journeys,2432424.0,,,,,,,,
+2021-08-02,2021.0,Week 06,Rail,Passenger Journeys,96338.0,,,,,,,,
+2021-08-02,2021.0,Week 06,"Bus, excluding Dublin Metro",Passenger Journeys,198989.0,,,,,,,,
+2021-08-02,2021.0,Week 06,"All public transport, excluding LUAS",Passenger Journeys,1070818.0,,,,,,,,
+2021-08-02,2021.0,Week 06,Dublin Metro Bus,Passenger Journeys,775491.0,,,,,,,,
+2021-08-03,2021.0,Week 10,Dublin Metro Bus,Passenger Journeys,945236.0,,,,,,,,
+2021-08-03,2021.0,Week 10,Rail,Passenger Journeys,134132.0,,,,,,,,
+2021-08-03,2021.0,Week 10,"All public transport, excluding LUAS",Passenger Journeys,1318491.0,,,,,,,,
+2021-08-03,2021.0,Week 10,"Bus, excluding Dublin Metro",Passenger Journeys,239123.0,,,,,,,,
+2021-08-11,2021.0,Week 45,Dublin Metro Bus,Passenger Journeys,2258734.0,,,,,,,,
+2021-08-11,2021.0,Week 45,Rail,Passenger Journeys,570080.0,,,,,,,,
+2021-08-11,2021.0,Week 45,"Bus, excluding Dublin Metro",Passenger Journeys,592538.0,,,,,,,,
+2021-08-11,2021.0,Week 45,"All public transport, excluding LUAS",Passenger Journeys,3421352.0,,,,,,,,
+2021-08-16,2021.0,Week 33,Rail,Passenger Journeys,396685.0,,,,,,,,
+2021-08-16,2021.0,Week 33,"Bus, excluding Dublin Metro",Passenger Journeys,459631.0,,,,,,,,
+2021-08-16,2021.0,Week 33,Dublin Metro Bus,Passenger Journeys,1655260.0,,,,,,,,
+2021-08-16,2021.0,Week 33,"All public transport, excluding LUAS",Passenger Journeys,2511576.0,,,,,,,,
+2021-08-23,2021.0,Week 34,Dublin Metro Bus,Passenger Journeys,1766188.0,,,,,,,,
+2021-08-23,2021.0,Week 34,"All public transport, excluding LUAS",Passenger Journeys,2747138.0,,,,,,,,
+2021-08-23,2021.0,Week 34,Rail,Passenger Journeys,475258.0,,,,,,,,
+2021-08-23,2021.0,Week 34,"Bus, excluding Dublin Metro",Passenger Journeys,505692.0,,,,,,,,
+2021-08-30,2021.0,Week 35,Dublin Metro Bus,Passenger Journeys,1849382.0,,,,,,,,
+2021-08-30,2021.0,Week 35,"All public transport, excluding LUAS",Passenger Journeys,2801552.0,,,,,,,,
+2021-08-30,2021.0,Week 35,"Bus, excluding Dublin Metro",Passenger Journeys,507106.0,,,,,,,,
+2021-08-30,2021.0,Week 35,Rail,Passenger Journeys,445064.0,,,,,,,,
+2021-09-08,2021.0,Week 32,Dublin Metro Bus,Passenger Journeys,1636634.0,,,,,,,,
+2021-09-08,2021.0,Week 32,"All public transport, excluding LUAS",Passenger Journeys,2496868.0,,,,,,,,
+2021-09-08,2021.0,Week 32,Rail,Passenger Journeys,402833.0,,,,,,,,
+2021-09-08,2021.0,Week 32,"Bus, excluding Dublin Metro",Passenger Journeys,457401.0,,,,,,,,
+2021-09-13,2021.0,Week 37,Rail,Passenger Journeys,430036.0,,,,,,,,
+2021-09-13,2021.0,Week 37,"Bus, excluding Dublin Metro",Passenger Journeys,544763.0,,,,,,,,
+2021-09-13,2021.0,Week 37,Dublin Metro Bus,Passenger Journeys,1996559.0,,,,,,,,
+2021-09-13,2021.0,Week 37,"All public transport, excluding LUAS",Passenger Journeys,2971358.0,,,,,,,,
+2021-09-20,2021.0,Week 38,Rail,Passenger Journeys,481469.0,,,,,,,,
+2021-09-20,2021.0,Week 38,Dublin Metro Bus,Passenger Journeys,2133682.0,,,,,,,,
+2021-09-20,2021.0,Week 38,"Bus, excluding Dublin Metro",Passenger Journeys,578850.0,,,,,,,,
+2021-09-20,2021.0,Week 38,"All public transport, excluding LUAS",Passenger Journeys,3194001.0,,,,,,,,
+2021-09-27,2021.0,Week 39,Dublin Metro Bus,Passenger Journeys,2200701.0,,,,,,,,
+2021-09-27,2021.0,Week 39,"All public transport, excluding LUAS",Passenger Journeys,3321597.0,,,,,,,,
+2021-09-27,2021.0,Week 39,"Bus, excluding Dublin Metro",Passenger Journeys,604775.0,,,,,,,,
+2021-09-27,2021.0,Week 39,Rail,Passenger Journeys,516121.0,,,,,,,,
+2021-10-05,2021.0,Week 19,"Bus, excluding Dublin Metro",Passenger Journeys,358853.0,,,,,,,,
+2021-10-05,2021.0,Week 19,Dublin Metro Bus,Passenger Journeys,1355893.0,,,,,,,,
+2021-10-05,2021.0,Week 19,Rail,Passenger Journeys,269055.0,,,,,,,,
+2021-10-05,2021.0,Week 19,"All public transport, excluding LUAS",Passenger Journeys,1983801.0,,,,,,,,
+2021-10-18,2021.0,Week 42,"Bus, excluding Dublin Metro",Passenger Journeys,609960.0,,,,,,,,
+2021-10-18,2021.0,Week 42,Dublin Metro Bus,Passenger Journeys,2260213.0,,,,,,,,
+2021-10-18,2021.0,Week 42,Rail,Passenger Journeys,462006.0,,,,,,,,
+2021-10-18,2021.0,Week 42,"All public transport, excluding LUAS",Passenger Journeys,3332179.0,,,,,,,,
+2021-10-25,2021.0,Week 43,"Bus, excluding Dublin Metro",Passenger Journeys,501525.0,,,,,,,,
+2021-10-25,2021.0,Week 43,"All public transport, excluding LUAS",Passenger Journeys,2757221.0,,,,,,,,
+2021-10-25,2021.0,Week 43,Dublin Metro Bus,Passenger Journeys,1815542.0,,,,,,,,
+2021-10-25,2021.0,Week 43,Rail,Passenger Journeys,440154.0,,,,,,,,
+2021-11-01,2021.0,Week 02,Dublin Metro Bus,Passenger Journeys,735000.0,,,,,,,,
+2021-11-01,2021.0,Week 02,"All public transport, excluding LUAS",Passenger Journeys,1009862.0,,,,,,,,
+2021-11-01,2021.0,Week 02,Rail,Passenger Journeys,90529.0,,,,,,,,
+2021-11-01,2021.0,Week 02,"Bus, excluding Dublin Metro",Passenger Journeys,184333.0,,,,,,,,
+2021-11-10,2021.0,Week 41,"All public transport, excluding LUAS",Passenger Journeys,3386179.0,,,,,,,,
+2021-11-10,2021.0,Week 41,Dublin Metro Bus,Passenger Journeys,2247417.0,,,,,,,,
+2021-11-10,2021.0,Week 41,"Bus, excluding Dublin Metro",Passenger Journeys,613892.0,,,,,,,,
+2021-11-10,2021.0,Week 41,Rail,Passenger Journeys,524870.0,,,,,,,,
+2021-11-15,2021.0,Week 46,"All public transport, excluding LUAS",Passenger Journeys,3326874.0,,,,,,,,
+2021-11-15,2021.0,Week 46,Dublin Metro Bus,Passenger Journeys,2218390.0,,,,,,,,
+2021-11-15,2021.0,Week 46,"Bus, excluding Dublin Metro",Passenger Journeys,598813.0,,,,,,,,
+2021-11-15,2021.0,Week 46,Rail,Passenger Journeys,509671.0,,,,,,,,
+2021-11-22,2021.0,Week 47,"All public transport, excluding LUAS",Passenger Journeys,3198288.0,,,,,,,,
+2021-11-22,2021.0,Week 47,"Bus, excluding Dublin Metro",Passenger Journeys,573025.0,,,,,,,,
+2021-11-22,2021.0,Week 47,Dublin Metro Bus,Passenger Journeys,2159300.0,,,,,,,,
+2021-11-22,2021.0,Week 47,Rail,Passenger Journeys,465963.0,,,,,,,,
+2021-11-29,2021.0,Week 48,Dublin Metro Bus,Passenger Journeys,2126792.0,,,,,,,,
+2021-11-29,2021.0,Week 48,"Bus, excluding Dublin Metro",Passenger Journeys,545762.0,,,,,,,,
+2021-11-29,2021.0,Week 48,"All public transport, excluding LUAS",Passenger Journeys,3138144.0,,,,,,,,
+2021-11-29,2021.0,Week 48,Rail,Passenger Journeys,465590.0,,,,,,,,
+2021-12-04,2021.0,Week 15,Dublin Metro Bus,Passenger Journeys,1173468.0,,,,,,,,
+2021-12-04,2021.0,Week 15,Rail,Passenger Journeys,225466.0,,,,,,,,
+2021-12-04,2021.0,Week 15,"Bus, excluding Dublin Metro",Passenger Journeys,310154.0,,,,,,,,
+2021-12-04,2021.0,Week 15,"All public transport, excluding LUAS",Passenger Journeys,1709088.0,,,,,,,,
+2021-12-07,2021.0,Week 28,Rail,Passenger Journeys,455660.0,,,,,,,,
+2021-12-07,2021.0,Week 28,Dublin Metro Bus,Passenger Journeys,1623323.0,,,,,,,,
+2021-12-07,2021.0,Week 28,"Bus, excluding Dublin Metro",Passenger Journeys,466323.0,,,,,,,,
+2021-12-07,2021.0,Week 28,"All public transport, excluding LUAS",Passenger Journeys,2545306.0,,,,,,,,
+2021-12-13,2021.0,Week 50,"Bus, excluding Dublin Metro",Passenger Journeys,586228.0,,,,,,,,
+2021-12-13,2021.0,Week 50,Dublin Metro Bus,Passenger Journeys,2173422.0,,,,,,,,
+2021-12-13,2021.0,Week 50,Rail,Passenger Journeys,477149.0,,,,,,,,
+2021-12-13,2021.0,Week 50,"All public transport, excluding LUAS",Passenger Journeys,3236799.0,,,,,,,,
+2021-12-20,2021.0,Week 51,Dublin Metro Bus,Passenger Journeys,1496396.0,,,,,,,,
+2021-12-20,2021.0,Week 51,"All public transport, excluding LUAS",Passenger Journeys,2171645.0,,,,,,,,
+2021-12-20,2021.0,Week 51,Rail,Passenger Journeys,278965.0,,,,,,,,
+2021-12-20,2021.0,Week 51,"Bus, excluding Dublin Metro",Passenger Journeys,396284.0,,,,,,,,
+2021-12-27,2021.0,Week 52,"All public transport, excluding LUAS",Passenger Journeys,1632579.0,,,,,,,,
+2021-12-27,2021.0,Week 52,Dublin Metro Bus,Passenger Journeys,1099282.0,,,,,,,,
+2021-12-27,2021.0,Week 52,Rail,Passenger Journeys,243709.0,,,,,,,,
+2021-12-27,2021.0,Week 52,"Bus, excluding Dublin Metro",Passenger Journeys,289588.0,,,,,,,,
+2022-03-01,2021.0,Week 53,"Bus, excluding Dublin Metro",Passenger Journeys,198408.0,,,,,,,,
+2022-03-01,2021.0,Week 53,Dublin Metro Bus,Passenger Journeys,641716.0,,,,,,,,
+2022-03-01,2021.0,Week 53,Rail,Passenger Journeys,641500.0,,,,,,,,
+2022-03-01,2021.0,Week 53,"All public transport, excluding LUAS",Passenger Journeys,1519411.0,,,,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Male,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Male,25 - 34 years,19.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Male,35 - 44 years,10.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Male,45 - 54 years,9.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Male,55 - 64 years,7.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Male,65 - 74 years,13.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Male,75 years and over,7.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Female,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Female,25 - 34 years,16.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Female,35 - 44 years,11.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Female,45 - 54 years,9.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Female,55 - 64 years,9.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Female,65 - 74 years,15.0,,,,,
+,2021.0,,Frequency of use of bus services - Weekly or more than weekly,,,Female,75 years and over,13.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Male,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Male,25 - 34 years,22.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Male,35 - 44 years,27.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Male,45 - 54 years,22.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Male,55 - 64 years,26.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Male,65 - 74 years,32.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Male,75 years and over,27.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Female,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Female,25 - 34 years,21.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Female,35 - 44 years,30.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Female,45 - 54 years,30.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Female,55 - 64 years,26.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Female,65 - 74 years,31.0,,,,,
+,2021.0,,Frequency of use of bus services - Less than weekly,,,Female,75 years and over,21.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Male,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Male,25 - 34 years,59.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Male,35 - 44 years,63.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Male,45 - 54 years,70.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Male,55 - 64 years,67.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Male,65 - 74 years,56.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Male,75 years and over,66.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Female,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Female,25 - 34 years,63.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Female,35 - 44 years,60.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Female,45 - 54 years,61.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Female,55 - 64 years,64.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Female,65 - 74 years,54.0,,,,,
+,2021.0,,Frequency of use of bus services - Never,,,Female,75 years and over,67.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Male,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Male,25 - 34 years,11.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Male,35 - 44 years,11.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Male,45 - 54 years,9.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Male,55 - 64 years,9.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Male,65 - 74 years,19.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Male,75 years and over,14.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Female,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Female,25 - 34 years,15.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Female,35 - 44 years,14.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Female,45 - 54 years,15.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Female,55 - 64 years,20.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Female,65 - 74 years,31.0,,,,,
+,2021.0,,Frequency of use of bus services - of which had COVID concerns,,,Female,75 years and over,21.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Male,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Male,25 - 34 years,8.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Male,35 - 44 years,7.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Male,45 - 54 years,5.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Male,55 - 64 years,2.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Male,65 - 74 years,2.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Male,75 years and over,3.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Female,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Female,25 - 34 years,13.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Female,35 - 44 years,4.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Female,45 - 54 years,4.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Female,55 - 64 years,4.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Female,65 - 74 years,3.0,,,,,
+,2021.0,,Frequency of use of rail services - Weekly or more than weekly,,,Female,75 years and over,2.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Male,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Male,25 - 34 years,31.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Male,35 - 44 years,34.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Male,45 - 54 years,31.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Male,55 - 64 years,42.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Male,65 - 74 years,30.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Male,75 years and over,27.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Female,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Female,25 - 34 years,24.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Female,35 - 44 years,36.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Female,45 - 54 years,36.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Female,55 - 64 years,41.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Female,65 - 74 years,43.0,,,,,
+,2021.0,,Frequency of use of rail services - Less than weekly,,,Female,75 years and over,25.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Male,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Male,25 - 34 years,61.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Male,35 - 44 years,59.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Male,45 - 54 years,64.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Male,55 - 64 years,56.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Male,65 - 74 years,67.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Male,75 years and over,70.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Female,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Female,25 - 34 years,63.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Female,35 - 44 years,61.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Female,45 - 54 years,60.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Female,55 - 64 years,62.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Female,65 - 74 years,54.0,,,,,
+,2021.0,,Frequency of use of rail services - Never,,,Female,75 years and over,73.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Male,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Male,25 - 34 years,12.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Male,35 - 44 years,8.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Male,45 - 54 years,6.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Male,55 - 64 years,7.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Male,65 - 74 years,15.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Male,75 years and over,13.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Female,18 - 24 years,28.59375,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Female,25 - 34 years,3.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Female,35 - 44 years,10.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Female,45 - 54 years,8.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Female,55 - 64 years,17.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Female,65 - 74 years,29.0,,,,,
+,2021.0,,Frequency of use of rail services - of which had COVID concerns,,,Female,75 years and over,18.0,,,,,
+,,,,,,,,,2021-01-01,0.0,0.4,6.1,6.9299462056077035
+,,,,,,,,,2021-01-02,4.0,0.0,4.5,2.3619618350904004
+,,,,,,,,,2021-01-03,0.0,4.4,7,5.434134469935753
+,,,,,,,,,2021-01-04,0.0,1.0,6.6,3.512758689282358
+,,,,,,,,,2021-01-05,0.0,4.9,5.6,8.544807270734601
+,,,,,,,,,2021-01-06,0.0,1.9,4,7.523174441365951
+,,,,,,,,,2021-01-07,0.0,0.7,2.4,5.515628570585763
+,,,,,,,,,2021-01-08,0.0,0.0,3,6.388526873135668
+,,,,,,,,,2021-01-09,0.0,0.0,4.2,4.4660162593013055
+,,,,,,,,,2021-01-10,0.0,0.0,7.7,2.032176155933235
+,,,,,,,,,2021-01-11,0.0,11.4,10,2.794813251087297
+,,,,,,,,,2021-01-12,0.0,11.4,10.5,5.959620702676912
+,,,,,,,,,2021-01-13,0.0,0.6,12.1,5.734222048398704
+,,,,,,,,,2021-01-14,0.0,0.0,9.6,8.779757983420444
+,,,,,,,,,2021-01-15,0.0,2.9,11.6,9.614843064824933
+,,,,,,,,,2021-01-16,0.0,0.5,9.5,0.8885277144556725
+,,,,,,,,,2021-01-17,0.0,0.1,7,1.7867521456914393
+,,,,,,,,,2021-01-18,0.0,18.5,11.1,2.4661066127834976
+,,,,,,,,,2021-01-19,0.0,6.4,12,0.05477758045431047
+,,,,,,,,,2021-01-20,0.0,5.6,5,5.372755095083772
+,,,,,,,,,2021-01-21,0.0,0.0,6.4,5.13539905412118
+,,,,,,,,,2021-01-22,0.0,0.1,6.4,5.024576796341225
+,,,,,,,,,2021-01-23,0.0,0.3,4.9,2.190104473440458
+,,,,,,,,,2021-01-24,4.0,0.0,2.4,5.367702110349272
+,,,,,,,,,2021-01-25,0.0,0.9,6,3.0403476754508807
+,,,,,,,,,2021-01-26,0.0,0.1,10.7,2.8770456210736164
+,,,,,,,,,2021-01-27,0.0,10.8,11.9,5.117224412858326
+,,,,,,,,,2021-01-28,0.0,0.9,12.8,8.114576528136057
+,,,,,,,,,2021-01-29,0.0,14.4,12.8,8.123291070912394
+,,,,,,,,,2021-01-30,0.0,5.7,5.3,8.322679634360604
+,,,,,,,,,2021-01-31,0.0,4.1,4.4,8.840869736204994
+,,,,,,,,,2021-02-01,0.0,18.1,7.3,9.527222909670874
+,,,,,,,,,2021-02-02,0.0,2.7,11.2,3.5463884436891533
+,,,,,,,,,2021-02-03,0.0,2.0,10.2,7.475225248995075
+,,,,,,,,,2021-02-04,0.0,0.2,11,9.525784532913251
+,,,,,,,,,2021-02-05,0.0,1.5,6.9,1.4280685297874063
+,,,,,,,,,2021-02-06,0.0,2.4,7.4,8.455159305672407
+,,,,,,,,,2021-02-07,4.0,0.0,5,8.983962220638459
+,,,,,,,,,2021-02-08,0.0,1.4,5.3,6.344245689578686
+,,,,,,,,,2021-02-09,0.0,1.3,3.2,3.7737069224649367
+,,,,,,,,,2021-02-10,4.0,0.0,4.2,8.015442688270234
+,,,,,,,,,2021-02-11,0.0,0.0,4.2,1.775040364253021
+,,,,,,,,,2021-02-12,0.0,1.0,5.4,9.862404719833828
+,,,,,,,,,2021-02-13,0.0,1.6,9,7.943460248078357
+,,,,,,,,,2021-02-14,0.0,2.6,13.6,4.592357026556102
+,,,,,,,,,2021-02-15,0.0,0.4,14,5.913968641530466
+,,,,,,,,,2021-02-16,0.0,0.3,12.2,5.185690022313027
+,,,,,,,,,2021-02-17,0.0,5.0,12.1,0.2640159734145253
+,,,,,,,,,2021-02-18,0.0,1.1,11.4,7.264094721374812
+,,,,,,,,,2021-02-19,0.0,2.4,13.5,3.258259613172495
+,,,,,,,,,2021-02-20,0.0,1.3,13.6,6.033849234995471
+,,,,,,,,,2021-02-21,4.0,0.0,13,9.474994960509823
+,,,,,,,,,2021-02-22,0.0,1.6,14.2,6.348345320119243
+,,,,,,,,,2021-02-23,0.0,9.6,15.9,6.17126978567315
+,,,,,,,,,2021-02-24,0.0,0.3,11.7,6.696918412165044
+,,,,,,,,,2021-02-25,0.0,0.0,11.5,0.8641177295076552
+,,,,,,,,,2021-02-26,0.0,0.0,13,9.815553545953708
+,,,,,,,,,2021-02-27,0.0,0.0,12.6,9.295604096258305
+,,,,,,,,,2021-02-28,0.0,0.0,11.4,7.983692154344396
+,,,,,,,,,2021-03-01,0.0,0.0,10.5,3.381578560217787
+,,,,,,,,,2021-03-02,0.0,0.0,8.3,6.491372229694802
+,,,,,,,,,2021-03-03,0.0,0.0,6.3,9.353514617089571
+,,,,,,,,,2021-03-04,0.0,0.0,6.6,7.329174739015745
+,,,,,,,,,2021-03-05,0.0,0.0,7.3,8.971239492179734
+,,,,,,,,,2021-03-06,0.0,0.0,8.5,4.882171833529557
+,,,,,,,,,2021-03-07,0.0,0.1,10.6,7.373170522305182
+,,,,,,,,,2021-03-08,4.0,0.0,12.4,8.04777093388214
+,,,,,,,,,2021-03-09,0.0,2.3,11.4,8.898933130352164
+,,,,,,,,,2021-03-10,0.0,6.2,13.8,6.054914216832145
+,,,,,,,,,2021-03-11,0.0,6.4,9.5,4.876068010801207
+,,,,,,,,,2021-03-12,0.0,1.6,9.3,5.260152107955706
+,,,,,,,,,2021-03-13,0.0,4.7,9.5,3.097657354575849
+,,,,,,,,,2021-03-14,0.0,2.7,11.4,9.011519765705835
+,,,,,,,,,2021-03-15,0.0,0.6,14.3,3.42206638310068
+,,,,,,,,,2021-03-16,0.0,0.0,15.5,5.891287570914376
+,,,,,,,,,2021-03-17,0.0,0.0,14.8,5.654017166429081
+,,,,,,,,,2021-03-18,0.0,0.0,15.6,1.1155026552506053
+,,,,,,,,,2021-03-19,0.0,0.0,13.6,3.5221291039089033
+,,,,,,,,,2021-03-20,0.0,0.0,13.8,0.7676047692322885
+,,,,,,,,,2021-03-21,0.0,0.0,13.6,1.5408124964526082
+,,,,,,,,,2021-03-22,0.0,0.0,10.6,0.41464326863028145
+,,,,,,,,,2021-03-23,0.0,0.0,13.1,0.2839957904924295
+,,,,,,,,,2021-03-24,0.0,0.0,13.6,9.596817843435208
+,,,,,,,,,2021-03-25,0.0,1.8,13.3,4.948087904006925
+,,,,,,,,,2021-03-26,0.0,0.3,9,9.129513552294098
+,,,,,,,,,2021-03-27,0.0,0.5,13.6,2.6657907284395432
+,,,,,,,,,2021-03-28,0.0,0.7,16.5,9.51732873411768
+,,,,,,,,,2021-03-29,0.0,0.0,17.9,2.1179860701913436
+,,,,,,,,,2021-03-30,0.0,0.0,15.7,0.25780689395861867
+,,,,,,,,,2021-03-31,0.0,0.0,16,5.047287387181449
+,,,,,,,,,2021-04-01,0.0,0.0,9.9,3.787198601295617
+,,,,,,,,,2021-04-02,0.0,0.0,10.8,1.5999886062940738
+,,,,,,,,,2021-04-03,0.0,0.0,12.9,0.08299029853794271
+,,,,,,,,,2021-04-04,0.0,0.1,14.7,4.228357234410279
+,,,,,,,,,2021-04-05,0.0,0.0,7.8,0.10846149588518372
+,,,,,,,,,2021-04-06,0.0,0.1,8.7,9.423740552446368
+,,,,,,,,,2021-04-07,0.0,0.6,8.9,2.7791922950420487
+,,,,,,,,,2021-04-08,0.0,1.0,11.8,3.53987096465757
+,,,,,,,,,2021-04-09,0.0,0.9,9.2,1.3833374156517675
+,,,,,,,,,2021-04-10,0.0,0.0,9.1,5.538882352284416
+,,,,,,,,,2021-04-11,0.0,2.3,9.5,5.6029814829488025
+,,,,,,,,,2021-04-12,0.0,2.2,11.7,3.05521740322781
+,,,,,,,,,2021-04-13,4.0,0.0,12.2,9.20110727635758
+,,,,,,,,,2021-04-14,0.0,0.0,12.6,7.729159020222785
+,,,,,,,,,2021-04-15,0.0,0.0,13.5,2.1949163181429965
+,,,,,,,,,2021-04-16,0.0,0.0,12.9,6.87495435773052
+,,,,,,,,,2021-04-17,0.0,0.6,14.1,9.48309791994531
+,,,,,,,,,2021-04-18,0.0,0.0,14,9.691827867916993
+,,,,,,,,,2021-04-19,0.0,1.4,14.3,8.817850386169757
+,,,,,,,,,2021-04-20,0.0,0.0,13.4,6.552306011771175
+,,,,,,,,,2021-04-21,0.0,0.0,14.2,6.611713083567179
+,,,,,,,,,2021-04-22,0.0,0.0,14.4,1.0254786367998003
+,,,,,,,,,2021-04-23,0.0,0.0,16.3,0.2723853439529744
+,,,,,,,,,2021-04-24,0.0,0.0,16.1,8.229642633388446
+,,,,,,,,,2021-04-25,0.0,0.0,14.8,7.231983414103137
+,,,,,,,,,2021-04-26,4.0,0.0,16.4,1.8521554563309517
+,,,,,,,,,2021-04-27,0.0,0.6,12.6,9.241333949673503
+,,,,,,,,,2021-04-28,0.0,0.0,10.7,4.767079149220203
+,,,,,,,,,2021-04-29,0.0,0.0,11.6,6.3778020627444
+,,,,,,,,,2021-04-30,0.0,0.0,13.4,1.9842035339911712
+,,,,,,,,,2021-05-01,0.0,0.0,13.5,3.956100681694712
+,,,,,,,,,2021-05-02,0.0,7.6,14.5,1.1783177272939116
+,,,,,,,,,2021-05-03,0.0,6.9,13.5,0.6379809544218074
+,,,,,,,,,2021-05-04,0.0,0.9,11.5,1.8463940812417057
+,,,,,,,,,2021-05-05,0.0,4.6,11.7,5.882058024631817
+,,,,,,,,,2021-05-06,0.0,0.0,12.8,1.547564667156427
+,,,,,,,,,2021-05-07,0.0,18.7,12.7,5.301888738654537
+,,,,,,,,,2021-05-08,0.0,0.8,19.5,8.302300478413217
+,,,,,,,,,2021-05-09,4.0,0.0,15.3,7.130647644216282
+,,,,,,,,,2021-05-10,0.0,2.2,16.7,1.5155394813108947
+,,,,,,,,,2021-05-11,4.0,0.0,16.2,2.8739493492937687
+,,,,,,,,,2021-05-12,0.0,1.0,16.1,7.914187696465338
+,,,,,,,,,2021-05-13,4.0,0.0,15.5,8.722470696045715
+,,,,,,,,,2021-05-14,0.0,1.7,14.6,4.269342709200023
+,,,,,,,,,2021-05-15,0.0,4.3,14.4,3.229381884581265
+,,,,,,,,,2021-05-16,4.0,0.0,17.1,5.389590550278015
+,,,,,,,,,2021-05-17,0.0,2.2,16.4,8.794112576605306
+,,,,,,,,,2021-05-18,0.0,6.9,15.5,1.1373967821064823
+,,,,,,,,,2021-05-19,0.0,5.2,17.5,7.673510956448579
+,,,,,,,,,2021-05-20,0.0,12.8,15.3,5.0665767767300975
+,,,,,,,,,2021-05-21,0.0,1.9,12.1,8.813963576950828
+,,,,,,,,,2021-05-22,0.0,0.0,14.1,3.041710810834588
+,,,,,,,,,2021-05-23,0.0,3.1,14.4,8.071103126840413
+,,,,,,,,,2021-05-24,0.0,1.0,16,1.3602796928307315
+,,,,,,,,,2021-05-25,0.0,2.4,16.1,4.335437745770783
+,,,,,,,,,2021-05-26,0.0,0.0,17.1,5.9398619013801905
+,,,,,,,,,2021-05-27,0.0,10.4,17.9,2.6066570664420774
+,,,,,,,,,2021-05-28,0.0,0.2,15.7,7.5574045913674635
+,,,,,,,,,2021-05-29,4.0,0.0,19.3,7.3736816304630395
+,,,,,,,,,2021-05-30,0.0,0.0,20.5,9.2477218848701
+,,,,,,,,,2021-05-31,0.0,0.0,21.8,2.680570889039461
+,,,,,,,,,2021-06-01,0.0,0.0,21.7,4.339925507499722
+,,,,,,,,,2021-06-02,0.0,0.0,20.9,9.345298353387005
+,,,,,,,,,2021-06-03,0.0,0.0,21,0.32354417679528735
+,,,,,,,,,2021-06-04,0.0,0.0,20.2,3.555315474370336
+,,,,,,,,,2021-06-05,0.0,0.0,18.9,9.507918683231733
+,,,,,,,,,2021-06-06,0.0,0.0,18.9,2.789508423635312
+,,,,,,,,,2021-06-07,0.0,0.0,21.2,0.35977395338242624
+,,,,,,,,,2021-06-08,0.0,0.3,20.6,7.148119494585206
+,,,,,,,,,2021-06-09,4.0,0.0,22.5,2.9791721740887676
+,,,,,,,,,2021-06-10,0.0,0.0,23.4,6.345139637680559
+,,,,,,,,,2021-06-11,0.0,0.0,20,7.779359265975675
+,,,,,,,,,2021-06-12,0.0,0.0,21.8,6.231630939574254
+,,,,,,,,,2021-06-13,4.0,0.0,24.4,0.3026221470883639
+,,,,,,,,,2021-06-14,0.0,0.0,19.2,7.343779174996281
+,,,,,,,,,2021-06-15,0.0,0.2,24.4,2.715878697569243
+,,,,,,,,,2021-06-16,4.0,0.0,19.7,9.099687104162829
+,,,,,,,,,2021-06-17,0.0,0.0,20.6,5.958849033315145
+,,,,,,,,,2021-06-18,0.0,0.0,17.1,2.6419849700563605
+,,,,,,,,,2021-06-19,0.0,0.0,17.8,4.39015116575359
+,,,,,,,,,2021-06-20,0.0,0.0,18.8,8.307636030747487
+,,,,,,,,,2021-06-21,0.0,0.0,19.6,9.543864118427072
+,,,,,,,,,2021-06-22,0.0,7.3,20,7.239599099845199
+,,,,,,,,,2021-06-23,0.0,0.8,19.4,0.8126866228490237
+,,,,,,,,,2021-06-24,0.0,3.7,20.3,2.2784577920569338
+,,,,,,,,,2021-06-25,0.0,0.4,15.1,1.0864729768066383
+,,,,,,,,,2021-06-26,0.0,0.0,15.7,9.572740166201557
+,,,,,,,,,2021-06-27,0.0,0.0,19.6,1.709870864719496
+,,,,,,,,,2021-06-28,0.0,0.0,21.4,1.9892159157373113
+,,,,,,,,,2021-06-29,0.0,0.0,24.6,3.762969898765063
+,,,,,,,,,2021-06-30,0.0,0.0,20.3,6.209509746163992
+,,,,,,,,,2021-07-01,0.0,0.0,19.7,7.575833354146947
+,,,,,,,,,2021-07-02,0.0,0.3,20.8,9.906733979812312
+,,,,,,,,,2021-07-03,0.0,0.9,20.2,5.725960066157926
+,,,,,,,,,2021-07-04,0.0,11.7,21.9,7.217961627269924
+,,,,,,,,,2021-07-05,0.0,0.0,20.5,7.116316445544339
+,,,,,,,,,2021-07-06,0.0,22.0,17.7,3.8293845102211685
+,,,,,,,,,2021-07-07,4.0,0.0,21.7,7.712083670873358
+,,,,,,,,,2021-07-08,0.0,0.0,20.2,2.031303594562779
+,,,,,,,,,2021-07-09,0.0,0.0,18.8,9.591280104440466
+,,,,,,,,,2021-07-10,0.0,0.2,20,5.890105859743306
+,,,,,,,,,2021-07-11,0.0,9.5,17.4,0.07774570136932057
+,,,,,,,,,2021-07-12,0.0,0.1,21.7,8.720880657015183
+,,,,,,,,,2021-07-13,0.0,0.0,20.6,3.3119026255558506
+,,,,,,,,,2021-07-14,0.0,0.0,24,6.929746309634113
+,,,,,,,,,2021-07-15,0.0,0.0,25.8,0.7235906629163635
+,,,,,,,,,2021-07-16,0.0,0.0,26.3,5.191823447207681
+,,,,,,,,,2021-07-17,0.0,0.0,28,0.3089581570655353
+,,,,,,,,,2021-07-18,0.0,0.0,25,7.984879226313135
+,,,,,,,,,2021-07-19,0.0,0.0,24.2,8.141093519244789
+,,,,,,,,,2021-07-20,0.0,0.0,24.6,6.4119683970450065
+,,,,,,,,,2021-07-21,0.0,0.0,25.4,8.148345379761393
+,,,,,,,,,2021-07-22,0.0,0.0,27.8,3.4502070141075993
+,,,,,,,,,2021-07-23,0.0,0.0,25.4,2.5576097744025827
+,,,,,,,,,2021-07-24,0.0,0.0,20.8,6.3436219363652135
+,,,,,,,,,2021-07-25,0.0,0.0,24.3,4.055343810199896
+,,,,,,,,,2021-07-26,0.0,0.0,21,4.844784780861563
+,,,,,,,,,2021-07-27,0.0,2.7,21.7,2.687632751113367
+,,,,,,,,,2021-07-28,0.0,2.2,17.8,4.905539330801546
+,,,,,,,,,2021-07-29,0.0,10.2,19.9,1.9847337778737528
+,,,,,,,,,2021-07-30,0.0,12.4,19.4,3.8059567849251827
+,,,,,,,,,2021-07-31,0.0,1.0,20,8.665155952130664
+,,,,,,,,,2021-08-01,4.0,0.0,20,7.9387112201849686
+,,,,,,,,,2021-08-02,0.0,0.0,17.9,7.471226723744508
+,,,,,,,,,2021-08-03,0.0,0.0,19.5,2.523893903668688
+,,,,,,,,,2021-08-04,0.0,0.7,23,9.66591018068515
+,,,,,,,,,2021-08-05,0.0,4.8,23,2.668538609273965
+,,,,,,,,,2021-08-06,0.0,2.4,19.1,0.38833170488819957
+,,,,,,,,,2021-08-07,0.0,5.5,18.5,5.625176949580483
+,,,,,,,,,2021-08-08,0.0,0.4,20.1,6.88537625336455
+,,,,,,,,,2021-08-09,0.0,1.4,19.9,0.47586670719623525
+,,,,,,,,,2021-08-10,0.0,0.0,20.1,5.141026312349756
+,,,,,,,,,2021-08-11,0.0,1.6,20.7,2.2048503914963034
+,,,,,,,,,2021-08-12,0.0,1.4,21,3.0391032814408625
+,,,,,,,,,2021-08-13,0.0,0.7,21.6,6.630026600727737
+,,,,,,,,,2021-08-14,0.0,1.6,18.3,8.608285777780429
+,,,,,,,,,2021-08-15,0.0,0.0,20,5.094040077756561
+,,,,,,,,,2021-08-16,0.0,0.0,17.9,2.183703964882129
+,,,,,,,,,2021-08-17,0.0,0.5,19.8,0.14721674799734408
+,,,,,,,,,2021-08-18,0.0,0.3,18.1,1.2624835968423365
+,,,,,,,,,2021-08-19,0.0,1.0,20.6,1.102305747950476
+,,,,,,,,,2021-08-20,0.0,4.9,20.6,9.942021182210345
+,,,,,,,,,2021-08-21,0.0,9.5,19.6,7.737787878174819
+,,,,,,,,,2021-08-22,4.0,0.0,21.5,1.891644892628791
+,,,,,,,,,2021-08-23,0.0,0.0,20.8,2.4605635213880115
+,,,,,,,,,2021-08-24,0.0,0.0,21.8,2.9948621721271387
+,,,,,,,,,2021-08-25,0.0,0.0,23.5,5.333035191213895
+,,,,,,,,,2021-08-26,0.0,0.0,23.3,9.672593875984823
+,,,,,,,,,2021-08-27,0.0,0.0,19.5,9.929474866006696
+,,,,,,,,,2021-08-28,0.0,0.0,20.7,2.9275714847370904
+,,,,,,,,,2021-08-29,0.0,0.0,20,2.3554698348054126
+,,,,,,,,,2021-08-30,4.0,0.0,17.6,8.203884618373717
+,,,,,,,,,2021-08-31,0.0,0.0,17.8,0.42526051698254297
+,,,,,,,,,2021-09-01,0.0,0.0,18.5,7.953948491006799
+,,,,,,,,,2021-09-02,0.0,0.0,16.9,0.849483367797812
+,,,,,,,,,2021-09-03,0.0,0.0,17.6,4.362217045178517
+,,,,,,,,,2021-09-04,0.0,0.0,20.1,7.974295049767399
+,,,,,,,,,2021-09-05,4.0,0.0,22.8,1.7480852607235553
+,,,,,,,,,2021-09-06,0.0,0.0,23.9,9.593492438753842
+,,,,,,,,,2021-09-07,0.0,0.0,23,3.7155300544928527
+,,,,,,,,,2021-09-08,0.0,6.9,22.7,6.669122269521461
+,,,,,,,,,2021-09-09,4.0,0.0,22.5,0.5895900607569537
+,,,,,,,,,2021-09-10,0.0,0.0,21.3,7.002285898093287
+,,,,,,,,,2021-09-11,4.0,0.0,20.2,7.488793601978139
+,,,,,,,,,2021-09-12,0.0,0.0,16.5,0.7227019365353871
+,,,,,,,,,2021-09-13,0.0,1.9,19.7,0.539135917526874
+,,,,,,,,,2021-09-14,0.0,0.0,20.4,3.995286503858184
+,,,,,,,,,2021-09-15,0.0,0.0,20.2,2.5929783270432774
+,,,,,,,,,2021-09-16,0.0,1.6,21.3,3.871783608925888
+,,,,,,,,,2021-09-17,0.0,2.9,19.1,7.928033838348757
+,,,,,,,,,2021-09-18,0.0,0.3,18.1,5.0217817781568534
+,,,,,,,,,2021-09-19,0.0,0.3,20.1,4.790030543140529
+,,,,,,,,,2021-09-20,0.0,0.0,20.5,9.376521345806369
+,,,,,,,,,2021-09-21,0.0,0.0,19.9,1.233313741255181
+,,,,,,,,,2021-09-22,0.0,0.6,21.9,2.187625868270816
+,,,,,,,,,2021-09-23,0.0,0.0,20.8,0.4464096423035768
+,,,,,,,,,2021-09-24,0.0,0.0,22.4,3.468071782030775
+,,,,,,,,,2021-09-25,0.0,0.0,24.5,0.48537198303237994
+,,,,,,,,,2021-09-26,0.0,16.2,21.6,4.7467685692179
+,,,,,,,,,2021-09-27,0.0,3.5,17.3,6.872574408356355
+,,,,,,,,,2021-09-28,0.0,0.0,15.7,4.335857268240225
+,,,,,,,,,2021-09-29,0.0,3.8,16.6,9.637944012579117
+,,,,,,,,,2021-09-30,0.0,2.1,16.5,1.1404811593910824
+,,,,,,,,,2021-10-01,0.0,0.6,15.2,1.6166417681696543
+,,,,,,,,,2021-10-02,0.0,1.0,14.9,5.111619458061636
+,,,,,,,,,2021-10-03,0.0,1.1,15.9,3.5180005892847657
+,,,,,,,,,2021-10-04,0.0,5.5,16.3,9.633253835834964
+,,,,,,,,,2021-10-05,4.0,0.0,15.8,2.6432429911258826
+,,,,,,,,,2021-10-06,0.0,0.7,19.4,8.753127936082763
+,,,,,,,,,2021-10-07,0.0,9.9,21.6,1.9780403735374286
+,,,,,,,,,2021-10-08,0.0,2.9,20.8,6.732938437219386
+,,,,,,,,,2021-10-09,0.0,0.1,19.5,9.762257414217565
+,,,,,,,,,2021-10-10,0.0,0.0,16.1,1.6939767223810143
+,,,,,,,,,2021-10-11,0.0,0.0,16.2,4.300382361594975
+,,,,,,,,,2021-10-12,0.0,0.0,16.2,6.49222417854793
+,,,,,,,,,2021-10-13,0.0,0.0,13.6,3.074782670991288
+,,,,,,,,,2021-10-14,0.0,0.2,15.4,0.13906133602919812
+,,,,,,,,,2021-10-15,0.0,0.2,15,7.317877164327157
+,,,,,,,,,2021-10-16,0.0,4.1,16.5,3.412165767634262
+,,,,,,,,,2021-10-17,0.0,0.7,18.4,8.660861609115916
+,,,,,,,,,2021-10-18,0.0,3.7,20.5,0.589334097585863
+,,,,,,,,,2021-10-19,0.0,4.5,19.5,8.299624629515176
+,,,,,,,,,2021-10-20,0.0,1.5,14,8.802426564130768
+,,,,,,,,,2021-10-21,4.0,0.0,14,2.3911552720761287
+,,,,,,,,,2021-10-22,0.0,0.0,14.1,7.443267203021878
+,,,,,,,,,2021-10-23,0.0,0.3,15.2,4.8014552053848645
+,,,,,,,,,2021-10-24,0.0,0.0,17.5,9.204057381851518
+,,,,,,,,,2021-10-25,0.0,0.2,15.2,8.79821792674273
+,,,,,,,,,2021-10-26,0.0,1.7,18.4,7.943027226287418
+,,,,,,,,,2021-10-27,0.0,15.8,18.7,9.884593865125458
+,,,,,,,,,2021-10-28,0.0,11.9,16.3,2.454737237622784
+,,,,,,,,,2021-10-29,0.0,2.0,13.8,3.7937193170946237
+,,,,,,,,,2021-10-30,0.0,10.7,13.6,6.918679674639368
+,,,,,,,,,2021-10-31,0.0,4.4,13.5,2.517266559259741
+,,,,,,,,,2021-11-01,0.0,1.4,11.3,7.532515471686637
+,,,,,,,,,2021-11-02,4.0,0.0,10.9,3.3743546692918
+,,,,,,,,,2021-11-03,0.0,0.0,11,5.567603566739873
+,,,,,,,,,2021-11-04,0.0,0.0,10.7,9.42786608761549
+,,,,,,,,,2021-11-05,0.0,0.0,12.4,5.1392098821146615
+,,,,,,,,,2021-11-06,0.0,0.2,14.4,3.534015500707252
+,,,,,,,,,2021-11-07,0.0,2.4,12.5,4.60587494542119
+,,,,,,,,,2021-11-08,0.0,0.5,17.4,4.467562124346517
+,,,,,,,,,2021-11-09,4.0,0.0,14.4,6.655052759262402
+,,,,,,,,,2021-11-10,0.0,0.0,12.6,9.100631614106833
+,,,,,,,,,2021-11-11,4.0,0.0,14.9,4.145339953605767
+,,,,,,,,,2021-11-12,4.0,0.0,14.9,3.824935933101533
+,,,,,,,,,2021-11-13,4.0,0.0,12.9,9.320395830663305
+,,,,,,,,,2021-11-14,0.0,1.5,15.4,7.797007295123482
+,,,,,,,,,2021-11-15,4.0,0.0,13,9.55554792857664
+,,,,,,,,,2021-11-16,4.0,0.0,13.1,0.23734803098079182
+,,,,,,,,,2021-11-17,4.0,0.0,13.3,7.381691131800584
+,,,,,,,,,2021-11-18,0.0,0.0,14.4,7.3493984111969555
+,,,,,,,,,2021-11-19,0.0,0.0,13.6,4.356630156303805
+,,,,,,,,,2021-11-20,0.0,0.2,13.3,1.3889788066721886
+,,,,,,,,,2021-11-21,4.0,0.0,9.1,6.268973460710172
+,,,,,,,,,2021-11-22,4.0,0.0,9.3,0.4082210092848948
+,,,,,,,,,2021-11-23,4.0,0.0,8,0.08626578154746212
+,,,,,,,,,2021-11-24,4.0,0.0,8.1,3.0186143217108787
+,,,,,,,,,2021-11-25,0.0,0.4,9.2,1.9201615845350417
+,,,,,,,,,2021-11-26,0.0,0.4,9,1.634287645421939
+,,,,,,,,,2021-11-27,0.0,0.0,8.5,7.091889492527113
+,,,,,,,,,2021-11-28,0.0,0.0,5.8,6.778890306502692
+,,,,,,,,,2021-11-29,4.0,0.0,11,5.61939598173354
+,,,,,,,,,2021-11-30,0.0,3.9,11.6,8.37711041010196
+,,,,,,,,,2021-12-01,0.0,0.3,9.4,4.26725965077749
+,,,,,,,,,2021-12-02,0.0,9.2,10,6.218050063386506
+,,,,,,,,,2021-12-03,0.0,1.1,8.5,2.8480548357630298
+,,,,,,,,,2021-12-04,4.0,0.0,5.6,2.352013143870132
+,,,,,,,,,2021-12-05,0.0,2.4,8.1,8.014999681554546
+,,,,,,,,,2021-12-06,0.0,12.6,8.8,5.398177557620509
+,,,,,,,,,2021-12-07,0.0,14.5,9.5,4.799887245113447
+,,,,,,,,,2021-12-08,0.0,0.7,7,7.643449640943405
+,,,,,,,,,2021-12-09,0.0,1.0,11,8.63924908200443
+,,,,,,,,,2021-12-10,0.0,0.6,7.9,4.953897335676701
+,,,,,,,,,2021-12-11,0.0,0.7,14,6.267037014125048
+,,,,,,,,,2021-12-12,4.0,0.0,15,6.521296742662691
+,,,,,,,,,2021-12-13,4.0,0.0,8.8,5.456537273150425
+,,,,,,,,,2021-12-14,4.0,0.0,11,1.4005745509144052
+,,,,,,,,,2021-12-15,4.0,0.0,12.8,5.567727793047324
+,,,,,,,,,2021-12-16,4.0,0.0,13.3,5.390359710715286
+,,,,,,,,,2021-12-17,0.0,0.0,9.3,9.253890336737292
+,,,,,,,,,2021-12-18,0.0,0.0,9.9,1.4937438881053466
+,,,,,,,,,2021-12-19,0.0,0.0,8.1,6.305237595106217
+,,,,,,,,,2021-12-20,0.0,0.0,8,6.328769270081826
+,,,,,,,,,2021-12-21,0.0,4.5,7.4,2.416495868131988
+,,,,,,,,,2021-12-22,0.0,0.9,12.5,2.63252470078155
+,,,,,,,,,2021-12-23,4.0,0.0,14.7,7.880447164674732
+,,,,,,,,,2021-12-24,0.0,4.2,11,6.661629264052905
+,,,,,,,,,2021-12-25,0.0,22.0,9.1,7.710121922464252
+,,,,,,,,,2021-12-26,0.0,0.8,11.1,5.304321799665905
+,,,,,,,,,2021-12-27,0.0,8.5,10,9.039915238021424
+,,,,,,,,,2021-12-28,0.0,3.2,15,7.80478742208529
+,,,,,,,,,2021-12-29,0.0,0.0,16,4.166173275252879
+,,,,,,,,,2021-12-30,0.0,8.1,17.4,3.5353711537567802
+,,,,,,,,,2021-12-31,0.0,0.3,15.8,1.0600954922863304
